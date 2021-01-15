@@ -8,15 +8,17 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 Using Excel, organize and analyze a database of 4,000 past projects (including example: project sate (success, fail or cancelled), goals, pledges, country and backers) in order to uncover any hidden trends.
 
 ### Analysis of Outcomes Based on Launch Date
-
 ![Outcome vs Launched Date](./img/per_date.png)
+This graph shows the highest successrate in May and lowest failure in April.
+Successrates are lowest in December. This could be due to holidays or the colder weather.
 
 ### Analysis of Outcomes Based on Goals
-
 ![Outcome vs Goal Percentage](./img/outcome_vs_goal_percentage.png)
+This graph reveals that the lower thegoal was the more likely it was to succeed (given the proper backing)
 
 ### Challenges and Difficulties Encountered
-
+![Results filtered by sub category](./img/per_sub_category.png)
+Choosing which way to divide the data presented a challenge at first. There are many sub categories to choose from and which can greaty alter the look if the data if done hap hazzardly. Looking at these resulty it shows that come categories were much more successful, while other were produced at a higher rate ireguardless of successrate.
 
 ## Results:
 
