@@ -8,7 +8,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 Using Excel, organize and analyze a database of 4,000 past projects (including example: project sate (success, fail or cancelled), goals, pledges, country and backers) in order to uncover any hidden trends.
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcome vs Goal Percentage](./img/outcome_vs_goal.pdf)
+![Outcome vs Goal Percentage](./img/outcome_vs_goal_percentage.png)
 
 ### Analysis of Outcomes Based on Goals
 
