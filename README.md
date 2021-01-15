@@ -1,9 +1,18 @@
 # Excel-kickstart
 
-## Purpose
-Organize and analyze a database of 4,000 past projects (including example: project sate, goals, pledges, country and backers) in order to uncover any hidden trends
+## Overview of Project:
+Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
 
+### Purpose:
+Using Excel, organize and analyze a database of 4,000 past projects (including example: project sate (success, fail or cancelled), goals, pledges, country and backers) in order to uncover any hidden trends.
 
+### Analysis of Outcomes Based on Launch Date
+![Outcome vs Goal Percentage](./img/outcome_vs_goal.png)
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
 
 ## Results:
 
