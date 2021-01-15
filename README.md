@@ -8,16 +8,23 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 Using Excel, organize and analyze a database of 4,000 past projects (including example: project sate (success, fail or cancelled), goals, pledges, country and backers) in order to uncover any hidden trends.
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcome vs Goal Percentage](./img/outcome_vs_goal_percentage.png)
+
+![Outcome vs Launched Date](./img/per_date.png)
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcome vs Goal Percentage](./img/outcome_vs_goal_percentage.png)
+
 ### Challenges and Difficulties Encountered
+
 
 ## Results:
 
 Conclusion:
  *  More backers means more likely to reach goal
+ 
+ ![Successful Backers](./img/successful_backers.png)
+ ![Unsuccessful Backers](./img/unsuccessful_backers.png)
  *  Plays are the most frequently endeavored campaign
  *  The goal of less than 1000 has both the highest success rate and the lowest fail rate, thus is the safest to back. Also, the success percentage trend is             generally negative when increasing the goal.  
 
